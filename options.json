@@ -1,0 +1,17 @@
+{
+  "Rooms": {
+    "kitchen": ["Switch on/off lights", "Switch on/off fridge", "Switch on/off oven"],
+    "bedroom": ["Switch on/off lights", "Switch on/off fans", "Switch on/off Television"],
+    "bathroom": ["Switch on/off lights", "Switch on/off Geyser"]
+  },
+
+  "Activities": {
+    "entertainment": ["Play/ stop movie", "Play/ stop music", "Play/ stop radio"],
+    "utility": ["Switch on/off washing machine", "Switch on/off AC"]
+  },
+
+  "Other options": {
+    "security": ["Enable security system", "View security cameras"],
+    "outdoor": ["Switch on/off outdoor lights", "Tap water on/off for garden"]
+  }
+}
